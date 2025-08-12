@@ -92,3 +92,16 @@ scikit-learn → Random Forest & evaluation
 | Recall    | 0.84  |
 | F1 Score  | 0.85  |
 
+Top 3 Important Features:
+
+Humidity
+
+Pressure
+
+Cloud cover
+
+# 📌 Conclusion
+
+The Random Forest model effectively predicts rainfall with high accuracy, leveraging key weather indicators such as humidity, pressure, and cloud cover.
+This approach can be extended to real-time weather data for more practical applications.
+
