@@ -71,7 +71,7 @@ Confusion matrix
 Feature importance plot
 
 
-#🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 Python 3.x
 
@@ -82,3 +82,13 @@ pandas, numpy → Data handling
 matplotlib, seaborn → Visualization
 
 scikit-learn → Random Forest & evaluation
+
+# 📊 Example Results
+
+| Metric    | Value |
+| --------- | ----- |
+| Accuracy  | 0.89  |
+| Precision | 0.86  |
+| Recall    | 0.84  |
+| F1 Score  | 0.85  |
+
