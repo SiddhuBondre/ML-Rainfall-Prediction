@@ -87,7 +87,7 @@ scikit-learn → Random Forest & evaluation
 
 | Metric    | Value |
 | --------- | ----- |
-| Accuracy  | 0.89  |
+| Accuracy  | 0.85  |
 | Precision | 0.86  |
 | Recall    | 0.84  |
 | F1 Score  | 0.85  |
