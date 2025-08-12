@@ -1,11 +1,11 @@
-🌧️ Rainfall Prediction using Machine Learning
+# 🌧️ Rainfall Prediction using Machine Learning
 
-📌 Objective
+# 📌 Objective
 
 The objective of this project is to predict whether it will rain using daily recorded weather data.
 We use a Random Forest Classifier to learn patterns between meteorological parameters and rainfall occurrence.
 
-📂 Dataset
+# 📂 Dataset
 Source: Custom daily weather observations
 
 Format: CSV file with the following columns:
@@ -34,9 +34,9 @@ winddirection
 
 windspeed
 
- Workflow
+ # Workflow
  
-Data Preprocessing
+# Data Preprocessing
 
 Load the CSV file into Pandas DataFrame
 
@@ -46,13 +46,13 @@ Encode categorical columns (rainfall as 0/1)
 
 Normalize/scale features if needed
 
-Exploratory Data Analysis
+# Exploratory Data Analysis
 
 Visualize distribution of pressure, temperature, humidity
 
 Check correlation between features and rainfall
 
-Model Building
+# Model Building
 
 Train-test split (e.g., 80-20)
 
@@ -60,7 +60,7 @@ Apply Random Forest Classifier
 
 Tune hyperparameters (n_estimators, max_depth, min_samples_split, min_samples_leaf)
 
-Evaluation
+# Evaluation
 
 Accuracy
 
@@ -71,7 +71,7 @@ Confusion matrix
 Feature importance plot
 
 
-🛠️ Technologies Used
+#🛠️ Technologies Used
 
 Python 3.x
 
