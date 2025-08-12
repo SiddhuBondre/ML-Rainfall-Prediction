@@ -8,26 +8,4 @@ By applying machine learning models, this project seeks to help farmers, disaste
 
 📂 Dataset
 
-Source: Australian Bureau of Meteorology or any local weather dataset
 
-Format: CSV file containing historical daily weather observations
-
-Features:
-
-Date
-
-Location
-
-MinTemp, MaxTemp
-
-Rainfall (previous day)
-
-Evaporation, Sunshine
-
-WindSpeed, WindDirection
-
-Humidity, Pressure
-
-CloudCover
-
-Target: RainTomorrow (Yes/No) or Rainfall_mm (numeric)
